@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I Decided to Become a Software Engineer"
-date:       2020-07-07 23:27:29 +0000
+date:       2020-07-07 19:27:30 -0400
 permalink:  why_i_decided_to_become_a_software_engineer
 ---
 
